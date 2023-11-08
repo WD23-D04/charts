@@ -2,7 +2,7 @@ import ChartComponent from './components/ChartComponent';
 
 function App() {
   const chartData = {
-    labels: [
+   /*  labels: [
       'Getreideprodukte',
       'Gemüse',
       'Obst',
@@ -15,7 +15,7 @@ function App() {
       'Öle und Fette',
       'Süßigkeiten',
       'Getränke',
-    ],
+    ], */
     datasets: [
       /* {
         label: 'Lagger',
