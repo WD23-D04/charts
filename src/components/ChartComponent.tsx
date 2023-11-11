@@ -24,13 +24,6 @@ const chartOptions: ChartOptions = {
       beginAtZero: true,
     },
   },
-  plugins: {
-    title: {
-      display : true,
-      text : "Lebensmittel",
-      color: 'tomato',
-    },
-  },
 };
 
 const ChartComponent: React.FC<ChartProps> = ({ data }) => {
